@@ -1,3 +1,4 @@
+package escopo1;
 public class Emprestimo {
     String dataRetirada;
     String dataDevolucao;

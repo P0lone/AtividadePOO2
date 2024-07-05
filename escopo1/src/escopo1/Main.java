@@ -1,3 +1,5 @@
+package escopo1;
+
 public class Main {
     public static void main(String[] args) throws Exception {
         Usuario gustavo = new Usuario("Gustavo", "Aluno", "20230006414@estudantes.ifpr.edu.br");

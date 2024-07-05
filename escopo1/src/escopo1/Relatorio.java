@@ -1,3 +1,5 @@
+package escopo1;
+
 public class Relatorio {
     Livro livroMaisReservado;
     Livro livroMaisEmprestado;

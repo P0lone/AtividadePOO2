@@ -1,3 +1,5 @@
+package escopo1;
+
 public class Reserva {
     Usuario usuario;
     String dataReserva;
