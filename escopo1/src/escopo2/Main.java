@@ -6,6 +6,6 @@ public class Main {
         Assento assento42 = new Assento("42",false,"Perto da Janela",voo001);
         ServicoExtra bagagemDespachada = new ServicoExtra("Bagagem Despachada","R$100");
         Usuario gustavo = new Usuario("Gustavo","meuEmail@gustavo.com");
-        Reserva reserva = new Reserva(gustavo,assento42,"Confirmado",bagagemDespachada);
+        Reserva reserva = new Reserva(gustavo,assento42,"Confirmado",null);
     }
 }
